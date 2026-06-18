@@ -116,6 +116,15 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fraskhan&bg_color=0D1117&color=00BFA6&line=00BFA6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
+<br>
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fraskhan/fraskhan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fraskhan/fraskhan/output/github-snake.svg" />
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/fraskhan/fraskhan/output/github-snake-dark.svg" width="100%" />
+</picture>
+
 </div>
 
 <br>
