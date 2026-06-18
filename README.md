@@ -1,99 +1,95 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Alfraskhan+A.+Jose+%F0%9F%91%8B;Full+Stack+Developer+%40+ALTSOLUTIONS;Web+%E2%80%A2+App+%E2%80%A2+Data+Analytics" alt="Typing SVG" />
-<br/>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=fraskhan&style=for-the-badge&color=00c2cb&label=PROFILE+VIEWS)
+
+# Hi, I'm Alfraskhan Jose 👋
+
+### Full Stack Developer • Software Engineer • Problem Solver
+
+Building scalable web applications, modern user experiences, and business solutions with clean code and practical design.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&pause=1000&color=00BFA6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+
 </div>
+
 ---
-About Me
-🎓 IT Graduate — Pilar College, Class of 2025
-💼 Full Stack Developer at ALTSOLUTIONS
-🔭 Currently building full-stack web & mobile apps
-📊 Expanding into Data Analytics
-⚡ Always shipping, always learning
+
+## About Me
+
+- 🎓 IT Graduate — Pilar College (2025)
+- 💼 Full Stack Developer
+- 🚀 Developing business applications, websites, and digital platforms
+- 🤖 Exploring AI-powered solutions and automation
+- 🎨 Passionate about UI/UX and frontend architecture
+- 📈 Continuously improving system performance and user experience
+
 ---
-Tech Stack
-Languages & Frameworks
+
+## Tech Stack
+
+### Frontend
+
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
-Frameworks & Libraries
+
+### Backend
+
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,spring,flask,django" />
 </p>
-Databases
+
+### Database & Cloud
+
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase" />
 </p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" />
+</p>
+
 ---
-GitHub Stats
+
+## GitHub Analytics
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fraskhan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fraskhan&theme=tokyonight&hide_border=true" height="165"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraskhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fraskhan&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraskhan&layout=compact&hide_border=true&theme=transparent" />
+
 </div>
+
 ---
-Contribution Graph — Snake
-> The snake eats contributions from lowest to highest 🐍
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fraskhan/fraskhan/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fraskhan/fraskhan/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/fraskhan/fraskhan/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-</div>
-> **To activate the snake:** create `.github/workflows/snake.yml` in your profile repo (see below ↓)
----
-<details>
-<summary>⚙️ Snake Setup — GitHub Actions Workflow</summary>
-Create the file `.github/workflows/snake.yml` in your `fraskhan/fraskhan` repository:
-```yaml
-name: Generate Snake Animation
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+## Current Focus
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```txt
+✓ Full Stack Development
+✓ Next.js & TypeScript
+✓ Modern UI/UX Design
+✓ API Development
+✓ AI Integration
+✓ System Architecture
 ```
-</details>
+
 ---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alfraskhan-jose-22b6b6358">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+
+### "Great software is built for people, not just machines."
+
 </div>
